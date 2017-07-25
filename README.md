@@ -12,7 +12,7 @@ end
 
 ## Challenges
 
-Create a new Ruby file called 'methods-practice.rb' with the `touch` command in your command line. Open up the file and code the following functions. Make sure to test them out by calling the function and then running `ruby methods-practice.rb` from the command line!
+Follow the instructions in methods-examples.rb to build the following 6 methods.
 
 * 1) Build a method `times_by_one_thousand` that takes an integer and multiplies it by 1000. (We started this one for you)
 
